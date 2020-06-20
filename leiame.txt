@@ -1,0 +1,25 @@
+explicar melhor o que significa cada item aqui
+
+[login]
+email=allanbarrossantos@hotmail.com
+password=!@#lespaul!@#
+
+[trade]
+account_type=practice ;practice or real
+otc=1 ; 0 = false 1 = true
+primary_type=0 ; 0 binary 1 digital
+multiple_type=0 ;0 false 1 true
+price_type=1 ; 0=% 1=R$
+price_value=2
+time_stamp=5 ;1,5,15,30
+delay=1 ; 1 second 
+minimum_payout=75   ;75%
+
+[management]
+management_type=0 ;0=% 1=R$
+take_profit=5
+stop_loss=5
+
+[martingale]
+maximum_amount=1
+factor=2 ; needs to be >1 for martingale technique
